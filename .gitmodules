@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/KevinStockmanns/Empelos_IAES_Frontend.git
+[submodule "back"]
+	path = back
+	url = https://github.com/KevinStockmanns/Empelos_IAES_Backend.git
